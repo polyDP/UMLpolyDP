@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE XMI SYSTEM "D:\Users\Baptiste-PC\AppData\Roaming\NetBeans\7.4\.uml\config\UML_2.0EMBT.dtd"> --><XMI xmlns:UML="omg.org/UML/1.4" xmi.version="2.0"> <XMI.header> <XMI.metamodel xmi.name="UML" xmi.version="1.4"/> <XMI.documentation> <XMI.exporter> Embarcadero's Describe </XMI.exporter> <XMI.exporterVersion> 6.0 </XMI.exporterVersion> </XMI.documentation> </XMI.header> <XMI.content> <UML:Project xmi.id="DCE.B6223B9F-B729-3F23-8C6A-46132AD13464" mode="Implementation" defaultLanguage="Java" projVersion="6.1.4.837" name="SIH_UML"><UML:Element.ownedElement>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.ownedElement><UML:Package.packageImport>
+<UML:PackageImport xmi.id="DCE.E7F95761-C258-73C8-2419-1ED353DA5F2D" importingPackage="DCE.B6223B9F-B729-3F23-8C6A-46132AD13464"><UML:PackageImport.importedPackage>
+<UML:Profile xmi.id="DCE.7868B340-1533-E303-5777-A7157E8644ED" name="Unnamed" isCloned="true" href=".\SIH_UML.etup#//*[@xmi.id=&apos;DCE.7868B340-1533-E303-5777-A7157E8644ED&apos;]" isDirty="false"/></UML:PackageImport.importedPackage><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.6A9EC880-C3ED-D88E-E983-03A6A6255E07" owner="DCE.E7F95761-C258-73C8-2419-1ED353DA5F2D" name="autoCreated">
+<UML:TaggedValue.dataValue>true</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:PackageImport></UML:Package.packageImport></UML:Project></XMI.content> </XMI>
